@@ -1,4 +1,4 @@
 py-scripts
 ==========
 
-Diversos utilitarios em python
+Diversos utilitarios em python.
