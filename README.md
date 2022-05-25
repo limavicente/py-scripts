@@ -1,7 +1,7 @@
 py-scripts
 ==========
 
-Diversos utilitarios em python.
+Utilitarios em python.
 
 por Vicente Lima
 
